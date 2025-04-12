@@ -92,3 +92,44 @@
 - API Key Authentication
 
 ---
+
+# 📅 Study Timetable
+
+## 🏢 Weekdays
+
+**Morning (5:00 AM – 9:00 AM):**
+- 1 Hour: LeetCode (2 old Medium-level problems)
+- 1 Hour: High-Level Design (HLD) or Low-Level Design (LLD)
+- 2 Hours: Other Learning
+
+**Afternoon (During Office Hours):**
+- 1 New Medium LeetCode Problem
+
+**Night:**
+- 30 Minutes: Learning
+- 30 Minutes: Preparing for the Next Day
+
+---
+
+## 🏖️ Weekends / Holidays
+
+**Morning (6:00 AM – 9:00 AM):**
+- 1 Hour: LeetCode (2 old Medium-level problems)
+- 1 Hour: High-Level Design (HLD) or Low-Level Design (LLD)
+- 1 Hour: Other Learning
+
+**After Breakfast (10:00 AM – 1:00 PM):**
+- 1 New Medium LeetCode Problem
+- Other Learning
+
+**Lunch + Rest:**
+- Lunch
+- 2 Hours: Sleep
+
+**Afternoon (3:30 PM – 6:00 PM):**
+- Gym Session
+
+**Evening (7:00 PM – 11:00 PM):**
+- Learning
+- 1 Hour: LeetCode (2 old Medium-level problems)
+
